@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcessionSession", "ConcessionSession\ConcessionSession.csproj", "{E0FCFC49-683B-4A72-9997-CB78071187B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0FCFC49-683B-4A72-9997-CB78071187B0}.Debug|x86.ActiveCfg = Debug|x86
+		{E0FCFC49-683B-4A72-9997-CB78071187B0}.Debug|x86.Build.0 = Debug|x86
+		{E0FCFC49-683B-4A72-9997-CB78071187B0}.Release|x86.ActiveCfg = Release|x86
+		{E0FCFC49-683B-4A72-9997-CB78071187B0}.Release|x86.Build.0 = Release|x86
+		{A4C3FBAD-7420-4AA6-9166-63B45915230E}.Debug|x86.ActiveCfg = Debug|x86
+		{A4C3FBAD-7420-4AA6-9166-63B45915230E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
