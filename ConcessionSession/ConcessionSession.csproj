@@ -88,7 +88,6 @@
     <Compile Include="Turtle.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Slip.cs" />
-    <Compile Include="Game1.cs" />
     <Compile Include="Game2.cs" />
     <Compile Include="InfoPanel.cs" />
     <Compile Include="PowerUp.cs" />
